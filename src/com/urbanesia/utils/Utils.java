@@ -24,10 +24,10 @@ public class Utils {
 	public static final String MOBILE_WEB_BIZ_PROFILE = MOBILE_WEB_URL + "profile/";
 	public static final String MOBILE_WEB_UTM = "?from=jajan_bb";
 	
-	public static final String CONSUMER_KEY = "__The_King_of_Mobile_Application__";
-	public static final String CONSUMER_SECRET = "__KetinggalanDalamPerkembanganApiDanMobileAdalahFATAL__";
-	public static final String USER_KEY = "5114-Fn3eP95FzzsvYgs3eWhkzO2X070";
-	public static final String USER_SECRET = "tAcO7AV1xXhWbTAx0eJjnK90jk";
+	public static final String CONSUMER_KEY = "CONSUMER_KEY";
+	public static final String CONSUMER_SECRET = "CONSUMER_SECRET";
+	public static final String USER_KEY = "USER_KEY";
+	public static final String USER_SECRET = "USER_SECRET";
 	
 	public static final String COORDS_DEFAULT_JKT = "-6.17535,106.827257";
 	public static final String COORDS_DEFAULT_BALI = "-8.657054,115.217461";
